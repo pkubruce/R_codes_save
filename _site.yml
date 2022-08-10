@@ -6,7 +6,7 @@ navbar:
   left:
     - text: "Home"
       href: index.html
-    - text: "About"
+    - text: "EasyCode"
       href: speed-and-distance-report.html
   output:
     html_document:
